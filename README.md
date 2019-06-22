@@ -1,1 +1,1 @@
-This report contains code fr the Kaggle Mercedes-Bezn Greener Manufacturing Challenge.
+This repo. contains code for the Kaggle Mercedes-Benz Greener Manufacturing Challenge.
